@@ -183,11 +183,19 @@ Zíral jsem na dopisní papír, na rukou psaný půlstránkový dopis, a přeč
 
 > _Můj syn je čestný člověk, nikdy nic špatného neudělal._
 
+  
+
 Měl jsem ty řádky před očima, měl jsem je už v hlavě, šlapali jsme zpátky do Touchova, mistr přede mnou, sledoval jsem jeho křivolakou jízdu.
+
+  
 
 > _Prosím Vás, neubližujte mu, vím, že pátráte v Tomašicích po těch věcech, co se tehdy staly…_
 
+  
+
 Opřeli jsme naše obstarožní kola na zahradě o strom, vypustil jsem kohouta na dvůr. Zůstal jsem sedět ve stínu domu na lavičce, mistr šel ohřívat do kuchyně polívku. Znovu jsem vytáhl dopis z obálky.
+
+  
 
 > _Bude Vám vděčná i celá jeho rodina… byli za ním už na jaře, všichni jsme mysleli, že už to skončilo, nechte ho, prosím, na pokoji. On neví, že jsem tenhle dopis napsala…_
 
