@@ -3,8 +3,6 @@ title: Blázen na kopci
 contentType: prose
 ---
 
-  
-
 Mobil mi zazvonil cestou z archivu.
 
 „Zdravím, pane Šrámek,“ nutil jsem se do veselého tónu, i když mě píchlo v břiše, jakmile jsem uslyšel jeho hlas.
@@ -31,9 +29,7 @@ Na druhém konci ticho.
 
 Dal jsem telefon do kapsy a pocítil jsem naléhavě, že po hodinách strávených v badatelně archivu musím někde venku načerpat energii. Nasedl jsem do prvního autobusu a vystoupil na zastávce, kde silnice jako osamělá čára protínala pole a louky. Vedra trochu polevila, na nebi se konečně objevily mraky, ale deště nepřicházely. Půda na polích pukala v širokých vyschlých vráskách. Seděl jsem na mírném návršíčku, kolem dokola rovinatá krajina. Lehounký vánek s sebou nesl vůně, které nabral cestou, byly příjemné a přátelské. I kousek lásky z té dálky, kde byl někde můj syn. Představoval jsem si chvíli, co asi právě malý Hynek dělá. Vytrhlo mě zapípání mobilního telefonu. Nová zpráva. Na maličkém displeji svítilo jméno: DANIELA. Zase se ozval známý neklid uvnitř. Pořád pronásledovaný. Všude dostižen. Tak jsem si připadal. Neotevřel jsem tu zprávu. Postavil jsem se a roztáhl ruce doširoka, procházel mnou ten voňavý vánek. Byl jsem maličkým bodem na stráni mezi nebem a trávou, utopený ve voňavých silicích a vrzání hmyzích křídel. Mísení vzduchu a země, to je to kouzlo. Obzor se mi ztrácel v namodralé dálce a splýval s oblohou.
 
-\* \* \*
-
-  
+* * *
 
 Daniela přijela do Třeboně v půlce týdne, ve státním oblastním archivu se objevila hned dopoledne. Už jsem tam seděl, vysílen z tropických týdnů. Mořili jsme se v badatelně s jejím rodopisem až do oběda, pak jsem musel na hodinu pryč, ale ještě odpoledne na zahrádce jedné restaurace jsme dávali materiály dohromady. Nabízela mi zase peníze. Vycítila moji časovou tíseň. Asi jsem byl nervózní. Potřeboval jsem ještě jednou zajet do Tomašic.
 

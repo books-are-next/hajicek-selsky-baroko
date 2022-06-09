@@ -3,8 +3,6 @@ title: The River of Vltava
 contentType: prose
 ---
 
-  
-
 „Pojedeme mým autem,“ řekla Daniela v Třeboni. Sedl jsem si tedy vedle ní a za okýnkem ubíhalo parné léto, suchem se drolily polní cesty a pukala zem. V autě bylo příjemně, klimatizace udržovala 23 stupňů Celsia. Konec týdne se blížil, začínal jsem být nervózní, že nestihnu odevzdat zakázky v termínu.
 
 Jezdil jsem vždycky bez mapy a Daniele jsem teď ukazoval popaměti cestu. Listoval jsem v deskách, materiál pro klienta byl způli hotový. Strom života vytisknutý z počítače, kopie matričních zápisů, archivních listin, latina ze stránek gruntovní knihy, překlad do češtiny. Chyběly jen fotografie.

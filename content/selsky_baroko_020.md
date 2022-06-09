@@ -3,8 +3,6 @@ title: Palác Flora
 contentType: prose
 ---
 
-  
-
 Z mobilního telefonu pořád stejná písnička. VOLANÁ STANICE JE DOČASNĚ NEDOSTUPNÁ. Ta nešťastná složka dokumentů ležela nehnutě stále na stejném místě v polici a já už jsem věděl dávno víc, než v ní bylo. I víc, než jsem sám kdy chtěl vědět.
 
 Podle kalendáře mi vycházelo, že Daniela by se měla právě vracet z veletrhu. Snad byla na cestě, snad ještě v Německu. Konečně se mi ozval tón, cítil jsem bušení v hrdle. Už jsem se nadechl, jenže hned jsem zase vydechl naprázdno. Danielin pozdrav byl nahraný. Hlasová schránka. Zpanikařil jsem a zamáčkl to. Ale pak jsem to hned zkusil znovu, opět záznamník.
@@ -35,9 +33,7 @@ Telefon najednou opravdu zadrnčel, vibroval a tančil po stole. Leknutím jsem
 
 V paneláku ještě nezačali topit, přehodil jsem si přes ramena deku a pustil starý tranzistorák. Deku, v níž byla naposledy po horké sprše zabalená ona.
 
-\* \* \*
-
-  
+* * *
 
 Neozvala se celý týden, ani já jsem její číslo nevolal. Proč bych měl, říkal jsem si. Složka na polici v třeboňském bytě pomalu zapadala prachem.
 
@@ -115,9 +111,7 @@ Oddálil jsem telefon od ucha.
 
 Setmělo se, dostala se do mě zima. Obešel jsem rybník a odemkl auto. Myslel jsem na Hynka, na tu hebkou samotu v krajině, na šípkový čaj v konvici, který si uvařím v poloprázdném pronajatém bytě.
 
-\* \* \*
-
-  
+* * *
 
 Bílý čistý porcelán a káva, světla zářivek, zrcadlově naleštěné stěny. Na kožence béžové barvy jsem seděl opatrně. Objevila se v tmavomodrém kostýmku, parfémový oblak kolem ní byl jiný, než jsem znal. Nevstal jsem, když přišla. Nápojový lístek jsem nepustil z rukou. Sedla si naproti mně s koleny u sebe. Čas oběda, seděli jsme u stěny té luxusní kavárny, asi někde uprostřed. Objednala si taky kávu.
 
@@ -285,9 +279,7 @@ Zase jsme stáli naproti sobě, jako už tolikrát. Přerušila to mlčení.
 
 Nic jsem na to neodpověděl, na okamžik zaváhala, pak vykročila k průhledným posuvným dveřím, doléhal jimi hluk provozu z Vinohradské třídy. Zmizela do ulice plné lidí.
 
-\* \* \*
-
-  
+* * *
 
 Už jsem stál u auta zaparkovaného u chodníku, už mě studily v dlani klíčky s přívěskem. Televizní věž vyčnívala za bloky domů, zdála se být hned za rohem. Dal jsem klíčky do kapsy a šel jsem pěkných pár minut, než jsem se k věži dostal. Hlava zvrácená vzhůru, zavrávoral jsem. Futuristická stavba, ohromná plastová batolata s velkými hlavami lezla po jejím plášti.
 
