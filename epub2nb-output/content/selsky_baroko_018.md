@@ -3,8 +3,6 @@ title: Rozálie Zandlová
 contentType: prose
 ---
 
-  
-
 Počasí se v září obrátilo ze dne na den. Nebe zešedlo, foukal studený vítr. Tečka za horkým létem. Do okna badatelny ťukal déšť, jako nehty, co tlučou do skleněné tabule. Jako mé studené prsty, kterými jsem obracel listy ve složce. Plnil jsem ji různými dokumenty skoro dva měsíce. Tvrdé desky pořadače, štítek na hřbetě. Chronologický postup, přesně jak jsem byl zvyklý, regest v záhlaví každého dokumentu. Originál, kopie, rukopis, prvopis, průklep, cyklostyl, strojopis. Všechno přesně popsané. Přejížděl jsem prsty po stránkách. Po chvíli jsem to raději zavřel. Ano, bylo to vyřízené. Další uzavřená složka.
 
 Archiv byl tichý, únava z nevyspání mě pálila v očích. Vedle mě hromada starých matrik, měl bych zase začít pracovat, přemýšlel jsem. Lehce naplesnivělá vůně, prach a stárnoucí papír. Ovanul mě pocit smutku, závratné beznaděje. A najednou jsem byl na chviličku zpátky v tom žhavém létě, sám na kopci, jako vesnický blázen, s větrem, co s sebou nosí vůně od lesa a od chalup, přátelské a uklidňující vůně, které hladí. Já, knihomol, šedá myš ze sklepení archivů, jsem vzpomínal na slunce…
@@ -277,9 +275,7 @@ Konečně jsme přijeli na silniční obchvat kolem Třeboně, navedl jsem Danie
 
 Rozsvítil jsem v poloprázdném bytě s rozházenými věcmi a stohy různých papírů a listin, starých knih. Uvolnil jsem jedno rozvrzané odřené křeslo, sedla si do něj v těch svých krásných šatech. Zatáhl jsem závěs, déšť byl pořád za oknem, tloukl do skla, jako by se chtěl dostat k nám dovnitř.
 
-\* \* \*
-
-  
+* * *
 
 Byla noc. Nebo vlastně ráno. V Touchově na návsi mrtvo. Na druhou hodinu jsme byli domluveni pod okny bytovky. V druhém patře se svítilo, modré televizní světlo za záclonami. Hodil jsem pár kamínků do skla, za chvíli se objevila rusá hlava.
 
@@ -295,6 +291,8 @@ Za chvíli stál Kennedy ve vchodu v šoférské uniformě, jako by nebyla sobo
 
 Seděl jsem na předním sedadle a byl jsem trochu napjatý vzrušením, mohutný Kennedy za volantem v klidu žvýkal, reflektory osvětlovaly úzkou asfaltku vedoucí do vedlejší vsi. Zastavili jsme na kraji návsi, vystoupil jsem, motor tiše vrčel, před místním kulturním domem parkovalo několik aut, viděl jsem hlouček mladých lidí, vedle vchodu zářil plakát.
 
+  
+
 PUSHKIN PARTY
 
 KAŽDÝ TŘETÍ PANÁK VODKY PUSHKIN ZDARMA
@@ -306,6 +304,8 @@ DJ SLIM
 +
 
 PŮLNOČNÍ STRIPTÝZ
+
+  
 
 Bratři Hlavatkové nikde. Zašel jsem dovnitř, do kulturáku, kde se konalo dostaveníčko s Puškinem. Opírali se ještě o bar. Sláva. Hádal jsem, že o poezii tam ten večer asi nejde. Kývl jsem na ně, kupodivu neprotestovali a dopili. Flamendr Josef zase jednou vytáhl staršího bráchu od rodiny. Čekal jsem před kulturákem, zdálky jsem slyšel bručet motor autobusu.
 

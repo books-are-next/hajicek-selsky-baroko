@@ -3,8 +3,6 @@ title: Pokrevenství
 contentType: prose
 ---
 
-  
-
 Dorazil jsem kolem desáté do archivu, den už se opět rozpaloval, ale v badatelně bylo příjemně. Seděla tam. Doufal jsem, že ji uvidím, a zároveň jsem si přál, aby už byla pryč. Rozmrzelo mě to. Ten vnitřní rozpor, to, co mi ubíralo soustředění. Nevyhnal jsem Danielu ani z hlavy, ani z denního rozvrhu. Slíbil jsem jí přece ještě pomoc v genealogickém pátrání.
 
 „Dobrý den,“ pozdravil jsem tiše mezi stoly v badatelně, „tak jste to ještě nevzdala?“ Podívala se na mě uraženým pohledem, zelené oči si mě přísně změřily.
@@ -103,9 +101,7 @@ Chvíli si mě dobírala. Vraceli jsme se do badatelny státního oblastního ar
 
 Zaklapl jsem prastarou knihu, Daniele zazvonil telefon, vyběhla s ním na chodbu. Taky jsem vstal a protáhl si záda. Pak jsem odsunul všechny staré matriky a civěl na monitor notebooku. Našel jsem si adresář, který jsem pojmenoval Tomašice. Procházel jsem jména sedláků, Kubach, Mařánek, Sládek, Jircha. Za zavřenými víčky se mi rozhořela tomašická náves zalitá světlem, slunce napíchnuté na špičce kostelní věže, pod ní hřbitůvek a ty litinové kříže.
 
-\* \* \*
-
-  
+* * *
 
 Seděl zase na stejné lavičce, čekal na mě. V parku začala hrát kapela, letní festival, spustilo to kousek od nás. Houf lidí kolem, nechtěl jsem křičet, abychom se slyšeli. Stíny tmavly a pokládaly se na zem vedle stromů, vzali jsme to kolem pivovaru a ke hrázi rybníka Svět.
 
@@ -195,9 +191,7 @@ Nechal jsem otázku viset ve vzduchu. Scházeli jsme k městu, svíral mě poci
 
 Horká noc, měl jsem otevřené okno a sám v poloprázdném bytě jsem nemohl spát. Stěny sálaly, já ležel nahý na posteli a po bílém stropě plavaly její světlé vlasy. I když jsem zavřel oči. Tranzistorové rádio plnilo pokoj tichou hudbou, svítilo, dioda blikala. První ranní zprávy a město bylo jako mrtvé.
 
-\* \* \*
-
-  
+* * *
 
 Vzal jsem večer s sebou do hospody mistra kamenického, na náves už padl stín, pod lípou seděli všichni jako obvykle. Přisedli jsme si ke Kennedymu, přinesl jsem z výčepu dvě piva a jedno postavil před mistra.
 
@@ -225,13 +219,21 @@ Kennedy mlčel a mistr se držel půllitru.
 
 Vytáhl jsem z aktovky desky a přitočil si židli ke Kennedymu. Otevřel jsem je, obracel jsem okopírované dokumenty. Kennedy si nasadil brýle.
 
-Zpráva o trestních věcech vedených proti vesnickým boháčům za měsíc únor 1953.
+  
+
+> Zpráva o trestních věcech vedených proti vesnickým boháčům za měsíc únor 1953.
+
+  
 
 V hlavičce byla uvedena krajská prokuratura, jako příjemce dokumentu ministerstvo spravedlnosti. Otáčel jsem pomalu listy.
 
 „Je to jasný, Honzo. Šrámek se ani nesnažil mi to vymlouvat. Podívej se na tohle.“
 
-Jakub Jircha, Tomašice čp. 8, výměra 31 ha. Odsouzen k 5 letům těžkého žaláře, k propadnutí celého jmění, zákazu pobytu v dosavadním bydlišti, peněžité pokutě a ztrátě občanských práv.
+  
+
+> Jakub Jircha, Tomašice čp. 8, výměra 31 ha. Odsouzen k 5 letům těžkého žaláře, k propadnutí celého jmění, zákazu pobytu v dosavadním bydlišti, peněžité pokutě a ztrátě občanských práv.
+
+  
 
 „Takovýhle zprávy chodily z okresu na ministerstvo každej měsíc. Dá se to sehnat, když člověk ví kde. Jsou tam tresty v tom tomašickým procesu. Zatýkání provedený na udání ze vsi.“
 

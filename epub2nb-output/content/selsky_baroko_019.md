@@ -3,8 +3,6 @@ title: Kind einer Dirne
 contentType: prose
 ---
 
-  
-
 Po pár dnech jsem konečně měl pohromadě šest tisíc na zaplacení v autoservisu. Moje stará škodovka tam stála už pěkně dlouho. Na spoj do Budějovic čekalo na návsi jen pár lidí, konečně se objevil modrý auto­bus v zatáčce. Nastoupil jsem jako poslední a sedl si na přední sedadlo. Kennedy mocně žvýkal a mlčel, pak se ke mně obrátil. A zase nic.
 
 „Co je, Johnny?“
@@ -49,9 +47,7 @@ Vystoupil jsem, šli jsme do nádražního bufetu, Kennedy se na mě soucitně d
 
 „Jo. A hned ho pořádně projedu.“
 
-\* \* \*
-
-  
+* * *
 
 Byly to dva týdny, co jsme stejnou cestu projížděli Danieliným pohodlným vozem. Tentokrát nepršelo. Ale posledně jsem zase neměl tenhle svíravý pocit v břiše. Myslel jsem na stařenu, jak jsem ji naposled viděl na prahu jejího domku, zkřehlou pod deštníkem, a teď jsem se vracel s příšerným pocitem, že jsem něco hrozně zvoral.
 

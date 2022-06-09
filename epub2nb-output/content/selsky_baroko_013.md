@@ -3,8 +3,6 @@ title: Čp\. 11
 contentType: prose
 ---
 
-  
-
 Některé kroniky prostě zůstanou mezi lidmi, do archivů se nedostanou. Opakoval jsem si, co mi řekli v okresním archivu a co jsem nakonec sám věděl taky. V autě, vzadu na sedačce, jsem měl plastovou bednu, že udělám odpoledne velký nákup v nějakém supermarketu, abychom s mistrem měli v chalupě co jíst. Zdi města sálaly už od rána, spěchal jsem na desátou dopolední do jedné budějovické kavárny.
 
 I když jsem dorazil o pět minut dřív, seděla už u okna, u stolku se dvěma židlemi. Ve světlém kostýmku, šedivé vlasy s trvalou ondulací. Modré oči, opálená vrásčitá tvář a laskavý úsměv. Okamžitě ze mě spadla tíseň, to nabízené přátelství viselo ve vzduchu, přivítali jsme se, stisk ruky měla pevný, drsná dlaň. U chladicí vitrínky se zákusky jsme si vybrali něco ke kávě.
@@ -111,9 +109,7 @@ Došli jsme až k zastávce trolejbusu, nechtěla svézt autem.
 
 „Že o kronice nikdo neví, to mě ani nepřekvapuje,“ řekla na rozloučenou, „lidi mají dneska jiný starosti…“
 
-\* \* \*
-
-  
+* * *
 
 V pátek odpoledne jsem podruhé marně zvonil u dveří jednoho budějovického bytu. Sjel jsem výtahem zase dolů a pak seděl uprostřed panelového sídliště mezi pískovištěm a oplechovanou ohradou. Rozmrzelý, že mi nic nevychází, jsem si rozbalil na lavičce laptop a pokoušel se pracovat a neztrácet čas. Maminky s kočárky, neposlušné dětičky. Nešlo to, ani když jsem se hodně soustředil. Sledoval jsem nervózně vchod a nakonec jsem se dočkal. Hubenou ženu s vlnitými kaštanovými vlasy jsem chytil ještě dole u schodů.
 
@@ -181,9 +177,7 @@ Na sobě měla ty červené kalhoty, jako při naší první večeři. Ale tón 
 
 Loučila se ještě v kanceláři, já už jsem běžel dolů po schodech. Bylo to za mnou a ve mně se otvírala ta známá radost, víkend s Hynkem, jen přestát cestu tam a zpátky v srpnovém vedru.
 
-\* \* \*
-
-  
+* * *
 
 Malý Hynek se těšil na vycházku do lesa, na fotbal na zahradě za domem mistra Karáska a hlavně na Hlavatkovic holky. V sobotu odpoledne jsme otevřeli vrátka do dvora u Hlavatků.
 
@@ -345,9 +339,7 @@ Nad zárubní kuchyně visela na skobě zarámovaná destička s vybledlým ná
 
 „Probudím se a říkám si, co se to ksakru děje? Vtrhli sem Němci? Nebo Rusáci…?“ povídal mistr Karásek. Díval jsem se po nevinných tvářičkách u snídaně a říkal jsem si, že vyšetřování, kdo z dětí přitáhl do chalupy petardy zbylé od silvestra, odložím na neurčito.
 
-\* \* \*
-
-  
+* * *
 
 Do Tomašic jsem se dostal až v polovině týdne. Usedlost čp. 11 stojí na jihozápadní straně návsi. Obyčejné dva bílé štíty s vepsaným letopočtem LP 1874. Strohá brána bez zdobení, uzavřený dvůr s hospodářskými staveními, stodola, pak podivná nízká roubená stavba a mezi nimi průchod do sadu.
 
