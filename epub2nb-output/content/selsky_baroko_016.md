@@ -129,23 +129,43 @@ Zápisy z počátku padesátých let se hodně týkaly událostí, které mě z
 
 > Při MNV zvolena na schůzi rady trestní komise složená z předsedy a dvou členů. Zabývat se má přečiny rolníků proti státní zemědělské politice, hospodářskými a kriminálními delikty.
 
+  
+
 První zápis o trestech byl hned na další stránce:
+
+  
 
 > Za nesplněné předepsané dodávky v r. 1950 dostali někteří zemědělci peněžité pokuty, které byly změněny v tresty odnětí svobody. Jakub Jircha čp. 8 na 36 dní, Josef Sládek čp. 5 na 5 dnů, Jan Mařánek čp. 11 na 27 dní, Frant. Kubach čp. 23 rovněž na 27 dní.
 
+  
+
 Z přístroje vyjížděly věrné barevné kopie, Markytův rukopis, který už jsem důvěrně znal, dokonce bledé skvrnky v papíru vyvstávaly na okopírovaných stránkách.
+
+  
 
 > Soukromý obchod Lad. Berana byl již od jara změněn na prodejnu konsumu „Rovnost“.
 
+  
+
 Listy ještě teplé z kopírovacího přístroje jsem rovnal do desek.
+
+  
 
 > Zemědělci soustavně poučováni na schůzích, tiskem i obecním rozhlasem, že jediným východiskem z nesnází venkova je společná družstevní práce. Rolníci však lpějí na hospodaření soukromém, případně na dosavad obvyklém sdružování dobrovolném. Jen pomalu přicházejí k poznání, že nelze jinak než se podrobit.
 
+  
+
 Bylo to spíš povzdechnutí, Václav Markyta v té době ještě nepoužíval slova jako kulak či dobová politická hesla a ustálená slovní spojení. V jednom zápise si dokonce posteskl zřetelněji:
+
+  
 
 > Rozdělení dodávek na rok 1951 dáno zemědělcům na vědomí a smlouvy k podpisu již 17. 1. Rozpisy vykonány podle směrnic – třídně. Vysoké dodávky unavují už i rolníky s výměrou kolem 10 ha.
 
+  
+
 Rok 1952 byl na vsi rušný, zkopíroval jsem stránku s tímto zápisem:
+
+  
 
 > Částečný rozklad JZD II. typu v Tomašicích, dobrá polovina členů družstva při podzimních pracích začala pracovat zase samostatně.
 
@@ -199,23 +219,43 @@ V roce 1953 Václav Markyta zapsal:
 
 > Koncem ledna vzati do vazby v Českých Budějovicích tito soukromí zemědělci z Tomašic: Jircha Jakub, čp. 8, a Kubach Frant., čp. 23. Rovněž správce pily Šilhavý Jar., Smrčí čp. 3. Dva posledně jmenovaní propuštěni v půli února s podmínečnými tresty.
 
+  
+
 Ty stručně psané věty jako by mlčely. Bylo toho za nimi tolik, ale nevyřčeného. Jen tušení. Dohady. Tohle mě i při padesátém, dvoustém čtení zasahovalo nejvíc.
+
+  
 
 > 2\. března byl souzen lidovým soudem v Českých Budě­jovicích Jircha Jakub a odsouzen na 5 roků. MNV nato uspořádal veřejnou schůzi v obecním hostinci, na příkaz ministerstva vnitra byl dosazen k ruce předsedy hospodářsko-politický tajemník z okresu. Zdůvodnil trestní postih sedláka Jirchy a seznámil občany obce podrobně s tímto případem.
 
+  
+
 I z těchto strohých řádků šlo zlověstné ticho. Jak dlouho asi Markyta stylizoval tenhle jeden odstavec… věděl jsem od pamětníků, že s Jirchou vycházel vcelku dobře.
+
+  
 
 > 14\. 3. vystěhována rodina odsouzeného sedláka Jirchy (manželka, 2 děti, nemohoucí vejminkářka Jirchová Terezie, matka) do okresu Trutnov. Majetek předán do užívání MNV, který tento převedl do bezplatného nájmu místnímu JZD.
 
+  
+
 Konec jednoho osudu. Pak už v tomto případu kronikář nepsal o lidech. Jen o polích nebo o chalupě.
+
+  
 
 > Práce na „Jirchovně“ se nyní provádí společně, ale není dostatek pracovních sil. Orba zabezpečena družstevním traktorem Zetor 15. Část polí bývalého Jirchova statku přesto zůstává neobdělána. Družstvu hrozí, že nesplní plán.
 
+  
+
 Přesto se situace v družstvu nechtěla příliš stabilizovat. Opuštěný statek uprostřed vsi asi nepůsobil na místní dojmem, že všechno je v pořádku. V květnu téhož roku Markyta zapsal:
+
+  
 
 > Pod kůlnou Jirchova dvora umístěna telata, v chlévech ustájeny vyřazené dojnice, v obytných místnostech po stavební úpravě bude zřízen provisorní vepřinec.
 
+  
+
 Ještě než Markyta zapsal, jak dopadly toho roku žně, stálo za čárou pravého okraje heslo _PATRONÁT_. K němu vyhotoven tento zápis:
+
+  
 
 > Nad JZD převzaly patronát manželky vojáků z povolání od útvaru v Č. Budějovicích. Seznamovací večer byl 29\. června v místním hostinci. Patronky přijely autobusem a s nimi vojenská hudba.
 

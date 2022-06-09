@@ -171,10 +171,14 @@ Bylo jasné, že z mistra nic kloudného nevydoluju. Ale mně to nevadilo, z p
 
 Pak si začal notovat písničku, zpíval jsem s ním, už jsem ji od něho znal.
 
+  
+
 _Svítej, Bože, svítej  
 Aby novej den byl  
 Abych se podíval  
 V kterým vokně jsem byl…_
+
+  
 
 Mistr kamenický stál na náměstí u svého koše, řekl jsem mu, ať se pro mě zastaví v hotelové restauraci, než pojede zpátky. Seděl jsem u kafe a probíral dokumenty, které jsem okopíroval v archivu.
 

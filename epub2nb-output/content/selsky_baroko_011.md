@@ -29,7 +29,11 @@ Znělo to spíš jako rozkaz než prosba. Došel jsem do kuchyně a vzal ze sto
 
 > „Nejstarší tomašický památný zvon byl zvon sv. Václava. Již z roku 1598 pochází dochovaná písemná žádost na tehdejší vrchnost o opatření zvonu pro tamější kostel. Zvon však byl ulit až roku 1637, tedy téměř po čtyřiceti letech, což se dá vysvětlit dlouhou třicetiletou válkou…“
 
+  
+
 „To byl ten, co puknul,“ doplnil mistr.
+
+  
 
 > „Tento starobylý zvon pukl roku 1936. Za přispění míst­ního sedláka Jirchy (5000 korun) byl pořízen zvon Panna Maria. Vysvěcen byl na podzim roku 1937 děkanem Tomášem Kyzourem v zastoupení vikáře a byl toho dne i zavěšen.“
 

@@ -11,11 +11,19 @@ V roce 1937 novopečený mladý kronikář k heslu UDÁLOSTI za­psal:
 
 > 14\. 9. zemřel náš president osvoboditel T. G. Masaryk. Jest však pro náš venkov nesmrtelným!!!
 
+  
+
 V roce 1938 byl u hesla POČASÍ pořízen tento zápis:
+
+  
 
 > Ze 7. na 8. 11. zasáhlo Tomašice zemětřesení, které přivedlo mnohým domácnostem očividný pohyb obrazů na zdích. Koluje mezi lidmi pověst, že jest to první otřes Hitlerovy říše.
 
+  
+
 Další zápis zněl takto:
+
+  
 
 > V r. 1940 na příkaz ministra školství a osvěty musí být tato pamětní kniha zaslána okres. úřadu v Č. Budějovicích a jím do archivu země České. Obecní kronikářství tím v naší obci ustává.
 
@@ -29,7 +37,11 @@ Z listopadu roku 1945 mě zaujaly tyto řádky:
 
 > Lidový soud v Českých Budějovicích odsoudil z naší obce za zločin udavačství Šrámkovou Boženu ke smrti pro­vazem.
 
+  
+
 V roce 1946 Václav Markyta zapsal:
+
+  
 
 > V květnu zřízen v obci telefon.
 
@@ -45,27 +57,51 @@ V roce 1946 Václav Markyta zapsal:
 
 > kulturním referentem: Václav Markyta (SD)
 
+  
+
 Zápis u hesla VÝROČÍ z roku 1948:
+
+  
 
 > Památných událostí r. 1848, zejména zrušení roboty a osvobození selského stavu, vzpomenuto bylo na veřejné oslavě 11. 9. 1948.
 
+  
+
 Následovalo heslo OSVĚTOVÁ KOMISE:
+
+  
 
 > Podle nově vydaných směrnic o vedení obecních kronik pečuje nyní o vedení kroniky osvětová komise. Funkcí obecního kronikáře i nadále pověřen kulturní referent MNV Václav Markyta, čp. 28. Do kroniky mají být zapisovány události v obci, hlavně ty, které vystihují účast obce při budování socialismu.
 
+  
+
 První zápis roku 1950:
+
+  
 
 > Propagační plakáty na obecním hostinci ohlašují nástup pětiletky.
 
+  
+
 Zápis u hesla VĚDA:
+
+  
 
 > Naše zemědělská veřejnost podle vzoru sovětských kolchozníků se rozhodla uměle oplodňovat krávy.
 
+  
+
 Rok 1953 začal tímto zápisem:
+
+  
 
 > Dne 5. 3. 1953 zemřel veliký přítel našeho lidu a učitel lidstva J. V. Stalin. Jeho pohřbu se v Moskvě zúčastnil i náš president K. Gottwald, který se cestou nachladil, roznemohl a 14. 3. 1953 odešel za svým velkým učitelem.
 
+  
+
 Obrátil jsem blok stránek, psal se rok 1957:
+
+  
 
 > V tomto roce si koupil televizor Fr. Bouda, čp. 10. Obraz i zvuk je čistý.
 
