@@ -3,6 +3,8 @@ title: Rozálie Zandlová
 contentType: prose
 ---
 
+<section>
+
 Počasí se v září obrátilo ze dne na den. Nebe zešedlo, foukal studený vítr. Tečka za horkým létem. Do okna badatelny ťukal déšť, jako nehty, co tlučou do skleněné tabule. Jako mé studené prsty, kterými jsem obracel listy ve složce. Plnil jsem ji různými dokumenty skoro dva měsíce. Tvrdé desky pořadače, štítek na hřbetě. Chronologický postup, přesně jak jsem byl zvyklý, regest v záhlaví každého dokumentu. Originál, kopie, rukopis, prvopis, průklep, cyklostyl, strojopis. Všechno přesně popsané. Přejížděl jsem prsty po stránkách. Po chvíli jsem to raději zavřel. Ano, bylo to vyřízené. Další uzavřená složka.
 
 Archiv byl tichý, únava z nevyspání mě pálila v očích. Vedle mě hromada starých matrik, měl bych zase začít pracovat, přemýšlel jsem. Lehce naplesnivělá vůně, prach a stárnoucí papír. Ovanul mě pocit smutku, závratné beznaděje. A najednou jsem byl na chviličku zpátky v tom žhavém létě, sám na kopci, jako vesnický blázen, s větrem, co s sebou nosí vůně od lesa a od chalup, přátelské a uklidňující vůně, které hladí. Já, knihomol, šedá myš ze sklepení archivů, jsem vzpomínal na slunce…
@@ -291,7 +293,9 @@ Za chvíli stál Kennedy ve vchodu v šoférské uniformě, jako by nebyla sobo
 
 Seděl jsem na předním sedadle a byl jsem trochu napjatý vzrušením, mohutný Kennedy za volantem v klidu žvýkal, reflektory osvětlovaly úzkou asfaltku vedoucí do vedlejší vsi. Zastavili jsme na kraji návsi, vystoupil jsem, motor tiše vrčel, před místním kulturním domem parkovalo několik aut, viděl jsem hlouček mladých lidí, vedle vchodu zářil plakát.
 
-  
+</section>
+
+<section>
 
 PUSHKIN PARTY
 
@@ -305,7 +309,9 @@ DJ SLIM
 
 PŮLNOČNÍ STRIPTÝZ
 
-  
+</section>
+
+<section>
 
 Bratři Hlavatkové nikde. Zašel jsem dovnitř, do kulturáku, kde se konalo dostaveníčko s Puškinem. Opírali se ještě o bar. Sláva. Hádal jsem, že o poezii tam ten večer asi nejde. Kývl jsem na ně, kupodivu neprotestovali a dopili. Flamendr Josef zase jednou vytáhl staršího bráchu od rodiny. Čekal jsem před kulturákem, zdálky jsem slyšel bručet motor autobusu.
 
@@ -378,3 +384,5 @@ Držel jsem láhev slivovice, Kennedy stál před lavičkou a ještě celý roz
 „Promiň, Pavle. Dyť mě znáš…“
 
 Začalo už pořádně pršet, Kennedy zmizel v domě, zamkl vchod. Vracel jsem se k chalupě mistra kameníka a lehounké světlo se zvedalo za obzorem, deštivá sobota se probouzela, na asfaltu se leskly první spadané lístky z jeřábů.
+
+</section>

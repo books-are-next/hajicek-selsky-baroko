@@ -3,6 +3,8 @@ title: Tomašické zvony
 contentType: prose
 ---
 
+<section>
+
 „Nejsem žádná turistka. Nemusím jezdit do Holašovic, ani na nějakej hrad nebo zámek. Ani kvůli mně nemusíte vymejšlet romantický historky.“ Našpulila pusu a zamrkala očima. Musel jsem se rozesmát.
 
 „A slíbil jste, že mě příště vezmete s sebou do terénu.“
@@ -97,11 +99,15 @@ Daniela se potichounku zasmála, upíjela šťávu z malovaného hrnku. Babičk
 
 „Tady je parte Mlejnkovy manželky z chicagskejch krajanskejch novin z roku 1944, paní Svárová. Podívejte se, přežila manžela o patnáct let.“
 
-  
+</section>
+
+<section>
 
 > Marie Zahradek, roz. Malek, obydlí 2349 Albany Ave., naše drazemilovaná matka, tchyně, babička, prababička a švakruše, zemřela zaopatřena svátostmi umírajících ve středu, dne 28. června 1944 ve stáří 78 roků. Zesnulá narozena byla v Krovicích v kraji Budějovickém, v Americe dlela 38 roků. Přináležela ku Spolku sv. Anny č. 117 Č. K. J. Za tichou soustrast prosí: Frank, syn; Anna, Karolina, dcery…
 
-  
+</section>
+
+<section>
 
 Babička si nasadila brýle a pokřižovala se před blikajícím monitorem, četla nahlas ty názvy a data a jména pozůstalých. Byli jsme s Danielou zticha jako pěny.
 
@@ -336,3 +342,5 @@ Už to vypadalo, že z ní nedostanu ani slovo. Přešlapoval jsem vedle ní.
 „Tohle už nikdo neví. A taky už to nikoho nezajímá, víte?“ řekla přísně. „Musím domů.“
 
 Vykročila a já jsem zůstal stát u hospody, dokud nezmizela za zatáčkou.
+
+</section>

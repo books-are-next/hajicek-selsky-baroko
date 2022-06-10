@@ -3,6 +3,8 @@ title: Palác Flora
 contentType: prose
 ---
 
+<section>
+
 Z mobilního telefonu pořád stejná písnička. VOLANÁ STANICE JE DOČASNĚ NEDOSTUPNÁ. Ta nešťastná složka dokumentů ležela nehnutě stále na stejném místě v polici a já už jsem věděl dávno víc, než v ní bylo. I víc, než jsem sám kdy chtěl vědět.
 
 Podle kalendáře mi vycházelo, že Daniela by se měla právě vracet z veletrhu. Snad byla na cestě, snad ještě v Německu. Konečně se mi ozval tón, cítil jsem bušení v hrdle. Už jsem se nadechl, jenže hned jsem zase vydechl naprázdno. Danielin pozdrav byl nahraný. Hlasová schránka. Zpanikařil jsem a zamáčkl to. Ale pak jsem to hned zkusil znovu, opět záznamník.
@@ -369,7 +371,9 @@ Uvězněni v autě, liják neustával. Sledovala mě, černé namalované řasy
 
 Spolkla slzy, svaly v obličeji se pomalu uklidnily. Nastartoval jsem a projel ulicemi se spoustou zaparkovaných aut u chodníků zpátky k Floře. Daniela otevřela a rychle vystoupila. Stál jsem v zákazu zastavení a díval se, jak mizí v podchodu metra.
 
-  
+</section>
+
+<section>
 
 Déšť cestou řídnul, a když jsem sjel z dálnice, už nepršelo. Mraky se roztrhaly. V prodejně, která patřila k benzinové pumpě, jsem stál u horké kávy v kelímku a žvýkal housku. Všechno napětí dne bylo pryč, zbyla jen únava a malý ohníček tepla někde uvnitř. Pozoroval jsem lidi, kteří byli jako já. Na cestě. Za sklem bylo vidět kus tmavého pole a lesklou silnici.
 
@@ -406,3 +410,5 @@ Nemělo to cenu. Odcházel jsem po té neosvětlené asfaltové sil­ničce.
 „Hele, ještě jednou se tu objevíš, ty šmejde, a pustím psa! A pak zavolám policajty!“
 
 Z dálky za mnou se ozývaly nadávky. Cítil jsem kolem žaludku, že mě to úplně rozházelo, ten klid a vnitřní pořádek, co jsem si pracně budoval celou zpáteční cestu v autě… Přidal jsem do kroku a už jsem se neotočil.
+
+</section>

@@ -3,6 +3,8 @@ title: Tomašice, Černá Hůrka, Smrčí
 contentType: prose
 ---
 
+<section>
+
 Seděl jsem u hřbitova na lavičce, stará vitrína opodál byla plná muších tělíček, zašlé sklo napolo vysypané a pavučiny, pár vybledlých plakátů z voleb snad někdy ze začátku devadesátých let.
 
 V Tomašicích byli po válce tři sedláci s výměrou nad dvacet hektarů. Zlověstná hranice pro cejch takzvaného vesnického boháče. Kulaka. Listoval jsem ve staré brožuře z roku 1951: _V bramborářských oblastech je kulak již od výměry 12–16 ha_, stála tam jakási definice rádoby vědeckým jazykem.
@@ -128,3 +130,5 @@ Znovu jsem strčil do pootevřené kovové branky, zavrzala. Stařena v šátku
 „Znala jste ji?“ nedal jsem se. Dívala se někam zpátky ke hřbitovu, k oprýskaným zdem porostlým psím vínem. Nevěděl jsem, jestli už nemám jít pryč.
 
 „Ta kurva jedna,“ řekla potichu, ale rozhodně. Zamrazilo mě. Z toho tónu. Stáli jsme tam sami na návsi. A nějaká padesát let stará nenávist. Nechápal jsem. Stará paní odcházela, chvíli jsem váhal a pak ji nechal jít.
+
+</section>
