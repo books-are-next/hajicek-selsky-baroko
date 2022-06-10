@@ -3,6 +3,8 @@ title: Psí kuchyně
 contentType: prose
 ---
 
+<section>
+
 Proboha, zase tenhle nešťastnej kout, jenom jsem si tak povzdechnul pro sebe. A slunce propalovalo tenké zelené listy, koruna lípy nad našimi hlavami hučela létem. Po cestičkách v parku se ploužili vedrem zmoření turisté a mířili k zámecké bráně.
 
 Pan Šrámek seděl vedle mě na lavičce a pořád něco povídal. A já jsem se těšil do stínu těch kamenných zdí nedaleko, do nažloutlého divného světla badatelny, do tlumeného hluku šustících archiválií, do naplesnivělého závanu, který vydechují staré knihy.
@@ -266,3 +268,5 @@ Mermomocí mi chtěla zaplatit večeři. Nenechala si to rozmluvit. Prý za tu p
 „Myslela jsem, že jste Třeboňák.“
 
 „Kdepak. Přespávám tu jen pár dní v tejdnu, kvůli práci. Jinak bydlím v jedný malý vesničce, jmenuje se Touchov…“
+
+</section>

@@ -3,6 +3,8 @@ title: Kind einer Dirne
 contentType: prose
 ---
 
+<section>
+
 Po pár dnech jsem konečně měl pohromadě šest tisíc na zaplacení v autoservisu. Moje stará škodovka tam stála už pěkně dlouho. Na spoj do Budějovic čekalo na návsi jen pár lidí, konečně se objevil modrý auto­bus v zatáčce. Nastoupil jsem jako poslední a sedl si na přední sedadlo. Kennedy mocně žvýkal a mlčel, pak se ke mně obrátil. A zase nic.
 
 „Co je, Johnny?“
@@ -156,3 +158,5 @@ Posuňkem ruky mě přivolala blíž, ještě blíž jsem se sklonil, že mi ta 
 „… ale Božka se mi mstila, víte? Kvůli Jardovi Bednářů ze vsi… kde mohla, řekla mi něco jedovatýho, že jí obluzuju milýho… ale to nebyla žádná pravda.“
 
 Ještě když jsem hnal auto po silnici na Jindřichův Hradec, měl jsem před očima shrbenou postavu v zástěře, jak jde pomalu po chodníčku a mizí ve dveřích domku. Dvě nová jména ze vsi. Sedmiborský, Bednář. Vzpomněl jsem si na ty bílé, vápnem vymalované námluvné pěšinky. A na ten soupis nápadníků vytesaný do žulových náhrobků na tomašickém hřbitově. I tyhle dva posledně jmenované bych tam určitě našel. Ale necítil jsem nejmenší chuť na ten hřbitůvek ještě někdy vkročit.
+
+</section>

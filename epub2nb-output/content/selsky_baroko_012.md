@@ -3,6 +3,8 @@ title: The River of Vltava
 contentType: prose
 ---
 
+<section>
+
 „Pojedeme mým autem,“ řekla Daniela v Třeboni. Sedl jsem si tedy vedle ní a za okýnkem ubíhalo parné léto, suchem se drolily polní cesty a pukala zem. V autě bylo příjemně, klimatizace udržovala 23 stupňů Celsia. Konec týdne se blížil, začínal jsem být nervózní, že nestihnu odevzdat zakázky v termínu.
 
 Jezdil jsem vždycky bez mapy a Daniele jsem teď ukazoval popaměti cestu. Listoval jsem v deskách, materiál pro klienta byl způli hotový. Strom života vytisknutý z počítače, kopie matričních zápisů, archivních listin, latina ze stránek gruntovní knihy, překlad do češtiny. Chyběly jen fotografie.
@@ -214,3 +216,5 @@ Smála se moc krásně a já byl jako na jehlách, že se to loučení zase neb
 „Já doufám, že už brzy ji uvidí všichni…“
 
 Zmlkl jsem uprostřed nedořečené věty. Nastartovala, lekl jsem se a zároveň se mi ulevilo. Přešel jsem silnici a ještě jí z protějšího chodníku zamával. Přišlo mi, že odtud utíkám jak malej kluk. Od hráze Světa šel trochu čerstvý vánek. Sedl jsem si na lavičku a otevřel laptop. Lázeňští hosté korzovali podvečerem a já jsem mohl pracovat. A taky jsem myslel na to všechno z dnešního dne a na Vltavu a na další cestu do Tomašic, na tu mou podivnou zakázku.
+
+</section>

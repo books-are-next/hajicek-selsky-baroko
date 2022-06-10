@@ -3,6 +3,8 @@ title: Dies mortis
 contentType: prose
 ---
 
+<section>
+
 Z Třeboně jsem to vzal oklikou, ale nedojel jsem až do Hvozdí. Vjel jsem na polní cestu a došel po stráni k lesu. Sedl jsem si a díval se na hvozdecké chalupy a na tu naši. Pořád budu říkat naše chalupa, i když už mi z ní nepatří ani cihla. Odhadoval jsem, jestli už je bratr doma, nebo ještě v práci. Kolik už je to let, co mi řekl tu větu. Deset? Víc? _Táhni do města_, vmetl mi tehdy do tváře.
 
 Okna byla otevřená. Několikrát vyšla Vlaďka. Nemohla mě spatřit, taky já ji na tu dálku viděl jenom jako pohybující se bod.
@@ -171,18 +173,24 @@ Bylo jasné, že z mistra nic kloudného nevydoluju. Ale mně to nevadilo, z p
 
 Pak si začal notovat písničku, zpíval jsem s ním, už jsem ji od něho znal.
 
-  
+</section>
+
+<section>
 
 _Svítej, Bože, svítej  
 Aby novej den byl  
 Abych se podíval  
 V kterým vokně jsem byl…_
 
-  
+</section>
+
+<section>
 
 Mistr kamenický stál na náměstí u svého koše, řekl jsem mu, ať se pro mě zastaví v hotelové restauraci, než pojede zpátky. Seděl jsem u kafe a probíral dokumenty, které jsem okopíroval v archivu.
 
-  
+</section>
+
+<section>
 
 > Informační schůze na MNV Tomašice 7. 4. 1949.
 
@@ -192,7 +200,9 @@ Mistr kamenický stál na náměstí u svého koše, řekl jsem mu, ať se pro 
 
 > Počet členů JZD 18, celková výměra 28,5 ha zemědělské půdy.
 
-  
+</section>
+
+<section>
 
 Rozmazané litery, snad vlhkem, psací stroj před více než padesáti lety vytloukal ten strohý zápis do hrubého nažloutlého papíru a já jsem procházel stavy živého a mrtvého inventáře, soupis členů družstva a čísla popisná. Když jsem zavřel oči, viděl jsem ty chalupy. Znal jsem tomašickou náves už nazpaměť.
 
@@ -277,3 +287,5 @@ Místo odpovědi jsem se podíval na hodinky.
 „Nech toho…“
 
 Nakonec jsem švagrovou přemluvil, že to její kafe zaplatím. Roz­loučili jsme se na náměstí před hotelem.
+
+</section>

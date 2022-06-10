@@ -3,6 +3,8 @@ title: Blázen na kopci
 contentType: prose
 ---
 
+<section>
+
 Mobil mi zazvonil cestou z archivu.
 
 „Zdravím, pane Šrámek,“ nutil jsem se do veselého tónu, i když mě píchlo v břiše, jakmile jsem uslyšel jeho hlas.
@@ -122,3 +124,5 @@ Nevěděl jsem najednou, jestli mám povídat dál. Proč vlastně.
 Mlčela, dívala se trochu stranou, seděli jsme ve stínu pod stromy. Pochyboval jsem, jestli to umím dost dobře vysvětlit, pochyboval jsem, jestli to tahle voňavá panička v krásných letních šatech a ve slamáčku může vůbec někdy pochopit.
 
 „On všem odpustil. To mě fascinuje. Protože já jsem čet všechny archivní listiny, zápisy kárné komise, agendu tehdejšího ONV, soupisy kulaků, kroniku Tomašic. Mluvil jsem se starejma lidma, který ho zažili a pamatujou i tu zlou dobu. A on, když mu bylo pětasedmdesát, sedřenej starej chlap, řek pár dní před smrtí: _Nedonutili mě nenávidět_…“
+
+</section>

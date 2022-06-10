@@ -3,6 +3,8 @@ title: Čp\. 11
 contentType: prose
 ---
 
+<section>
+
 Některé kroniky prostě zůstanou mezi lidmi, do archivů se nedostanou. Opakoval jsem si, co mi řekli v okresním archivu a co jsem nakonec sám věděl taky. V autě, vzadu na sedačce, jsem měl plastovou bednu, že udělám odpoledne velký nákup v nějakém supermarketu, abychom s mistrem měli v chalupě co jíst. Zdi města sálaly už od rána, spěchal jsem na desátou dopolední do jedné budějovické kavárny.
 
 I když jsem dorazil o pět minut dřív, seděla už u okna, u stolku se dvěma židlemi. Ve světlém kostýmku, šedivé vlasy s trvalou ondulací. Modré oči, opálená vrásčitá tvář a laskavý úsměv. Okamžitě ze mě spadla tíseň, to nabízené přátelství viselo ve vzduchu, přivítali jsme se, stisk ruky měla pevný, drsná dlaň. U chladicí vitrínky se zákusky jsme si vybrali něco ke kávě.
@@ -325,7 +327,9 @@ Musel jsem se usmát. Pohladil jsem Hynka po vlasech, který píchaly jako pose�
 
 „Anebo aspoň slavnej fotbalista…“
 
-  
+</section>
+
+<section>
 
 Ráno jsme se trousili do kuchyně, mistr Karásek už měl navařeno, hrnec čaje na plotně a v druhém hrnci bílé kafe. Lovil jsem ze sklenice kyselé okurky a přitom jsem krájel chleba pro děti, seděly všechny čtyři za stolem u otlučených porcelánových hrníčků, které panu Karáskovi ještě zbyly v kredenci. Máslo a med přinesl on sám ze spíže.
 
@@ -404,3 +408,5 @@ Obešli jsme kůlnu, v sadu byly kolem stěny kopřivy. Sešlapal jsem je a s�
 „Trochu to prozkoumejte, pane Herma,“ řekl jsem do jeho udiveného obličeje, „podívejte se na ty trámy, jak jsou poskládaný na sebe. Vsadím se, že tam nenajdete jedinej hřebík. A pokud opravdu ne, tak to mohlo bejt postavený někdy v sedmnáctým století.“
 
 „A já to chtěl zbourat,“ řekl pan Herma ohromeně své ženě, po kolena v kopřivách.
+
+</section>
