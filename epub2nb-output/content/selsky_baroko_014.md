@@ -609,7 +609,15 @@ Nervózními prsty jsem otevřel desky té první, červené knihy. Silný papí
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 PAMĚTNÍ KNIHA OBCE TOMAŠICE S OSADAMI ČERNÁ HŮRKA A SMRČÍ
+
+</div>
+
+</div>
 
 > Založena v r. 1924
 
