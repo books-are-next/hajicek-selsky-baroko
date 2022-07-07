@@ -297,17 +297,65 @@ Seděl jsem na předním sedadle a byl jsem trochu napjatý vzrušením, mohutn
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 PUSHKIN PARTY
+
+</div>
+
+</div>
+
+<div class="centered">
+
+<div class="verse">
 
 KAŽDÝ TŘETÍ PANÁK VODKY PUSHKIN ZDARMA
 
+</div>
+
+</div>
+
+<div class="centered">
+
+<div class="verse">
+
 +
+
+</div>
+
+</div>
+
+<div class="centered">
+
+<div class="verse">
 
 DJ SLIM
 
+</div>
+
+</div>
+
+<div class="centered">
+
+<div class="verse">
+
 +
 
+</div>
+
+</div>
+
+<div class="centered">
+
+<div class="verse">
+
 PŮLNOČNÍ STRIPTÝZ
+
+</div>
+
+</div>
 
 </section>
 
